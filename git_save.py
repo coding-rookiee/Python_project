@@ -1,4 +1,4 @@
 #git add .
-#git commit -m "(날짜)"
+#git commit -m "D년월일"
 #git push origin master
 print("Hello World!")
